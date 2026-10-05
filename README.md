@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asmita</h1>
-<h3 align="center">I like to tinker around with ML, Data Science and Analytics projects. I like to keep myself updated with the latest technologies.</h3>
+<h3 align="center">I like to tinker around with ML, Data Science and Analytics projects. </h3>
 
 - 🔭 I’m currently working on [Finshield Core](https://github.com/asm24legend/Finshield-Core)
 
