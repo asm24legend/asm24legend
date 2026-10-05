@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asmita</h1>
-<h3 align="center">I like to tinker around with ML, Data Science and Analytics projects. I like to keep myself updated with the latest technologies.</h3>
+<h3 align="center">I like to tinker around with ML, Data Science and Analytics projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asm24legend&label=Profile%20views&color=0e75b6&style=flat" alt="asm24legend" /> </p>
 
